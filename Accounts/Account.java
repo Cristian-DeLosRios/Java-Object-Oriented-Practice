@@ -1,11 +1,3 @@
-/*Crisitan De Los Rios
- * CSC 102-001
- *  Dr. Hawthorne
- *   Assignment 4, Problem 11.3
- *   10/22/2015
- */
-
-
 import java.util.*;
 
 public class Account {
