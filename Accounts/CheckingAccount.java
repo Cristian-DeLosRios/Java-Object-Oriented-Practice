@@ -1,11 +1,3 @@
-/*Crisitan De Los Rios
- * CSC 102-001
- *  Dr. Hawthorne
- *   Assignment 4, Problem 11.3
- *   10/22/2015
- */
-
-
 public class CheckingAccount extends Account{
 	
 	 //default Constructor which extends account
